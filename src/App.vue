@@ -1,13 +1,16 @@
 <template>
+  <Toogle />
   <Navbar />
 </template>
 
 <script>
 import navbar from "./components/Navbar.vue";
+import toogle from "./components/Toogle.vue";
 export default {
   name: "App",
   components: {
     Navbar: navbar,
+    Toogle: toogle,
   },
 };
 </script>

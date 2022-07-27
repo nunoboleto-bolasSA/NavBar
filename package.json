@@ -11,7 +11,8 @@
     "bootstrap": "5.2.0",
     "font-awesome": "4.7.0",
     "vue": "^3.2.33",
-    "vue-router": "4.1.2"
+    "vue-router": "4.1.2",
+    "vuex": "4.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
